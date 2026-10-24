@@ -1,3 +1,3 @@
 # ComfyUI already brings torch, transformers, numpy, Pillow and av (PyAV: the audio and video nodes write with it).
-kennmarq[local]==0.2.0
+kennmarq[local]==0.2.1
 # The Safety Check node also needs onnxruntime (or onnxruntime-gpu, if another node pack installed it).

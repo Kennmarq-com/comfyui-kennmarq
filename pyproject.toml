@@ -1,9 +1,9 @@
 [project]
 name = "comfyui-kennmarq"
 description = "Mark AI pictures, songs and clips for the EU AI Act as you save them: an invisible watermark and signed, time-stamped C2PA Content Credentials (pictures made on your machine; songs and clips in the cloud). And a safety check for the Act's Art. 5 bans."
-version = "0.2.0"
+version = "0.2.1"
 license = { file = "LICENSE" }
-dependencies = ["kennmarq[local]==0.2.0"]
+dependencies = ["kennmarq[local]==0.2.1"]
 
 [project.urls]
 Repository = "https://github.com/Kennmarq-com/comfyui-kennmarq"
